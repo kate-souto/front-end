@@ -1,0 +1,109 @@
+
+#resposta1 {
+    display: none;
+}
+#erro1 {
+    display: none;
+}
+
+#pergunta2 {
+    display: none;
+}
+#resposta2 {
+    display: none;
+}
+#erro2 {
+    display: none;
+}
+
+#pergunta3 {
+    display: none;
+}
+#resposta3 {
+    display: none;
+}
+#erro3 {
+    display: none;
+}
+
+header{
+    background-color: #ffe4c4;
+    border-radius: 15px;
+}
+
+h1{
+    text-align: center;
+}
+
+#tp{
+    text-align: center;
+}
+
+footer{
+    margin-top: 45px;
+    background-color:bisque;
+    border-radius: 15px;
+    padding: 8px;
+}
+
+#r2{
+    margin-top: 10px;
+    display: none;
+}
+
+#r3{
+    margin-top: 10px;
+    display: none;
+}
+
+.botao{
+    margin: 3px;
+    width: 97%;
+}
+
+button{
+    border-color: rgb(90, 68, 27);
+    border-style: solid ;
+    border-radius: 5px;
+    text-align: left;
+    background-color:rgb(255, 255, 255);
+    font-size: 100%;
+}
+
+body {
+    background-color:rgb(255, 250, 232);
+
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.lista{
+    list-style-type:none;
+    padding: 0;
+}
+
+#galena {
+    width: 50%;
+    border-radius: 50px;
+    margin-top: 5px;
+    max-width: 275px;
+}
+
+#celula {
+    width: 70%;
+    border-radius: 20px;
+    margin-top: 5px;
+    max-width: 275px;
+    margin-left: 5px;
+}
+
+#sensor {
+    width: 50%;
+    border-radius: 20px;
+    margin-top: 5px;
+    max-width: 275px;
+    margin-right: 5px;
+
+}

@@ -1,0 +1,33 @@
+h1{
+    background-color: rgb(142, 19, 243);
+    text-align: center;
+    align-items: center;
+    border-radius: 5px;
+    color: rgb(202, 176, 226);
+    height: auto;
+}
+
+.b{
+    border-color: blueviolet;
+    border-style: solid;
+    border-radius: 5px;
+    margin: 2px;
+    font-size: 2.3vh;
+    background-color: rgb(255, 255, 255);
+}
+
+.c{
+    border-color: rgb(212, 165, 255);
+    border-radius: 3px;
+    background-color: rgb(255, 255, 255);
+    font-size: 2.5vh;
+    width: 95%;
+}
+
+body{
+    background-color: rgb(244, 231, 255);
+}
+
+#adicionar{
+    display: none;
+}
